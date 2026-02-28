@@ -1,0 +1,5 @@
+a=int(input('numero?'))
+b=int(input('somado a?'))
+c=(a+b)
+#print('A soma de',a,'mais',b,'e igual a',c)
+print('A soma entre {} é {} vale {}'.format(a,b,c))
