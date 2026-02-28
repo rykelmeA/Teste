@@ -1,6 +1,5 @@
-n1=float(input('num?'))
-n3=float(input('outro?'))
-
+n1=float(input('numero ? '))
+n3=float(input('outro ? '))
 a=n1+n3
 s=n1-n3
 m=n1*n3
